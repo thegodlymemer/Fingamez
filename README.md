@@ -1,0 +1,2 @@
+# Fingamez
+learning to code
